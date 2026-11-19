@@ -1,0 +1,6 @@
+Illustrative seed-data walkthrough before any changes.
+Option 5: A+ 3, B+ 2, AB- 1, O+ 3. All other groups 0.
+Option 9: find Demo Hospital North request ID.
+Option 7: enter that ID. Expected: Issued 2 units. O+ remaining: 1.
+Option 7: retry that ID. Expected: Request already resolved: ISSUED.
+Option 7: enter Demo Hospital South request ID. Expected: Insufficient stock. Request remains pending.
